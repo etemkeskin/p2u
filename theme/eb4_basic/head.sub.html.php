@@ -29,6 +29,7 @@ add_stylesheet('<link rel="stylesheet" href="'.EYOOM_THEME_URL.'/plugins/eyoom-f
 add_stylesheet('<link rel="stylesheet" href="'.EYOOM_THEME_URL.'/plugins/font/Pretendard/Pretendard.css?ver='.G5_CSS_VER.'">',0);
 add_stylesheet('<link rel="stylesheet" href="'.EYOOM_THEME_URL.'/plugins/swiper/swiper-bundle.min.css" type="text/css" media="screen">',0);
 add_stylesheet('<link rel="stylesheet" href="'.EYOOM_THEME_URL.'/css/common.css?ver='.G5_CSS_VER.'">',0);
+add_stylesheet('<link rel="stylesheet" href="'.EYOOM_THEME_URL.'/css/custom.css?ver='.G5_CSS_VER.'">',0);
 ?>
 <!--[if lte IE 8]>
 <script src="<?php echo G5_JS_URL ?>/html5.js"></script>
